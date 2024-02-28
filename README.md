@@ -31,4 +31,4 @@ Python (ICS Classes at LHHS)
 
 HTML (Personal Learning)
 
-SQL (Everyware) 
+SQL (Personal Learning) 
